@@ -21,6 +21,6 @@ I am Daniel from Lagos, Nigeria. I create  Product Designs and also Develop cont
                                                                                                                                           
    <a href="https://www.linkedin.com/in/daniel-olaleye-1750151aa/"> <img align="left" alt="Daniel Olaleye || Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> </a>
    
-   <a href="√"> <img align="left" alt="Daniel Olaleye || Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> </a>
+   <a href="https://twitter.com/D___YUNG"> <img align="left" alt="Daniel Olaleye || Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> </a>
    
   
