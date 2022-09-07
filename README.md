@@ -5,7 +5,7 @@ I am Daniel from Lagos, Nigeria. I create  Product Designs and also Develop cont
  <img align="left"  width="47%" src ="https://github-readme-stats.vercel.app/api?username=Dannyung50&show_icons&true&theme=radical">
 <img  align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannyung50&layout=compact">
 
-
+# MY SKILLS
 <img align="left" alt="ADOBE XD LOGO" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 <img align="left" alt="FIGMA LOGO" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img align="left" alt="NODE.JS LOGO" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
